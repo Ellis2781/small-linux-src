@@ -1,7 +1,0 @@
-[submodule "packages/coreutils"]
-path = packages/coreutils
-url = https://github.com/DiegoMagdaleno/BSDCoreUtils
-
-[submodule "packages/git"]
-path = packages/git
-url = https://github.com/git/git
